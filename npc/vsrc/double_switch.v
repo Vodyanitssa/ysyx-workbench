@@ -1,4 +1,4 @@
-module top (
+module double_switch (
     input  [ 7:0] sw,
     output [15:0] led
 );
